@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Simulator",
+  "description": "Cross-platform 3D arcade vehicle simulator featuring trucks, cars, and motorcycles across infinite mountains, sand dunes, icebergs, and city highway terrains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
